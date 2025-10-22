@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at [rashmidongre.netlify.app](https://rashmidongre.netlify.app/)  
 - 💬 Ask me about **Excel, SQL, Python (Pandas, NumPy, Matplotlib), HTML, CSS, JavaScript, Git & GitHub**  
 - 📫 Reach me at **dongrerashmi15@gmail.com**  
-- 📄 Know more about my experiences [View Resume](https://drive.google.com/file/d/1drdhL8WW_7f7SB_rT2f2IiFHfp4DJyHL/view?usp=sharing)  
+ 
 
 ---
 
