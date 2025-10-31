@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Complete Data Analyst Bootcamp From Basics To Advanced (by Krish Naik, Udemy)**  
 - 👨‍💻 All of my projects are available at [rashmidongre.netlify.app](https://rashmidongre.netlify.app/)  
 - 💬 Ask me about **Excel, SQL, Python (Pandas, NumPy, Matplotlib), HTML, CSS, JavaScript, Git & GitHub**  
-- 📫 Reach me at **dongrerashmi15@gmail.com**  
+- 📫 Reach me at **dongre.rashmi07@gmail.com**  
  
 
 ---
